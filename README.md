@@ -10,3 +10,8 @@ How is the sales and profit distributed across various consumer segments
 What is the distribution of sales by subcategories, under each category.
 
 ![image](https://user-images.githubusercontent.com/38419795/189784282-987b83d0-d7aa-40a4-88d3-3c4b12cf426a.png)
+
+Total Sales and Profit Report **Yearly** and **Monthly**
+
+![image](https://user-images.githubusercontent.com/38419795/190032358-49e4c5cd-2d7e-42dd-a3f0-b6f5d3bbe3c0.png)
+
