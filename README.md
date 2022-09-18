@@ -17,10 +17,5 @@ Total Sales and Profit Report **Yearly** and **Monthly**
 
 
 
-
-
-![image](https://user-images.githubusercontent.com/38419795/190816093-f892a752-ca65-4f63-bf46-9b92fe78bbc5.png)
-
-
-
+![image](https://user-images.githubusercontent.com/38419795/190882802-a97d5bf7-88e5-4a34-a390-3ab529c80943.png)
 
