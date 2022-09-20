@@ -34,13 +34,17 @@ Total Sales and Profit Report **Yearly** and **Monthly**
 
 **Adding Button Sales and Profit**
 
-Below report is for Profit YoY
-![image](https://user-images.githubusercontent.com/38419795/191143359-8b894f03-7ecc-4dcd-9dd0-8adbe8184bf2.png)
+**Below report is for Profit YoY**
+
+![image](https://user-images.githubusercontent.com/38419795/191145161-e162197d-5f36-4789-9c87-f9d2201a24eb.png)
 
 
-Below report is for Profit YoY
 
-![image](https://user-images.githubusercontent.com/38419795/191143034-f90dd4a7-183d-4509-84eb-5ae604d6e878.png)
+**Below report is for Profit YoY**
+
+
+![image](https://user-images.githubusercontent.com/38419795/191145212-8941b758-4fca-463a-8f19-d06d3fb3151e.png)
+
 
 
 
