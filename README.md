@@ -43,7 +43,7 @@ Total Sales and Profit Report **Yearly** and **Monthly**
 **Below report is for Profit YoY**
 
 
-![image](https://user-images.githubusercontent.com/38419795/191145212-8941b758-4fca-463a-8f19-d06d3fb3151e.png)
+![image](https://user-images.githubusercontent.com/38419795/191145444-6dd7baab-5567-43bf-a725-8f608cc7567c.png)
 
 
 
